@@ -78,7 +78,7 @@ ${CYAN} | || |_   |_ \   / / | |_) || |__   _  ___ | |__    ___  _ __
 ${CYAN} |__   _| ___) | / /  | .__/ | '_ \ | |/ __|| '_ \  / _ \| '__|	
 ${CYAN}    |_|  |____/ /_/   | |    | | | || |\__ \| | | ||  __/| |   	
 ${CYAN}                      |_|    |_| |_||_||___/|_| |_| \___||_|   
-${CYAN} ${RED}Version : 1.0	${MAGENTA}Etanie is Beautiful
+${CYAN} ${RED}Version : 1.0
 
 ${RED}[${MAGENTA}-${RED}]${CYAN} The Title Will ONLY DISPLAY PROPERLY If The Screen Is Turned HORZONTALLY!!! ${WHITE}
 
@@ -95,7 +95,7 @@ banner_small() {
 		| |    | |  | || |   `-. N ,-' | |    | |  | || |    
 		| |___ | |__| || |___  |||||   | |___ | |__| || |___ 
 		|_____| \____/ |_____| `---'   |_____| \____/ |_____|
-		437Phisher----Respect Etanie----Version : 1.0
+		Version : 1.0
 	EOF
 }
 
@@ -448,24 +448,25 @@ site_vk() {
 main_menu() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${BLUE}[${MAGENTA}::${BLUE}]${RED} Select An Attack For Your Victim ${BLUE}[${MAGENTA}::${BLUE}]${RED}
+		${BLUE}[${MAGENTA}::${BLUE}]${RED} Successfully Generated Tokens and Spammed Embed ${BLUE}[${MAGENTA}::${BLUE}]${RED}
 
-		${MAGENTA}[${CYAN}01${MAGENTA}]${BLUE} Facebook      ${MAGENTA}[${CYAN}13${MAGENTA}]${BLUE} Twitch       ${MAGENTA}[${CYAN}25${MAGENTA}]${BLUE} DeviantArt
-		${MAGENTA}[${CYAN}02${MAGENTA}]${BLUE} Instagram     ${MAGENTA}[${CYAN}14${MAGENTA}]${BLUE} Pinterest    ${MAGENTA}[${CYAN}26${MAGENTA}]${BLUE} Badoo
-		${MAGENTA}[${CYAN}03${MAGENTA}]${BLUE} Google        ${MAGENTA}[${CYAN}15${MAGENTA}]${BLUE} Snapchat     ${MAGENTA}[${CYAN}27${MAGENTA}]${BLUE} Origin
-		${MAGENTA}[${CYAN}04${MAGENTA}]${BLUE} Microsoft     ${MAGENTA}[${CYAN}16${MAGENTA}]${BLUE} Linkedin     ${MAGENTA}[${CYAN}28${MAGENTA}]${BLUE} DropBox	
-		${MAGENTA}[${CYAN}05${MAGENTA}]${BLUE} Netflix       ${MAGENTA}[${CYAN}17${MAGENTA}]${BLUE} Ebay         ${MAGENTA}[${CYAN}29${MAGENTA}]${BLUE} Yahoo		
-		${MAGENTA}[${CYAN}06${MAGENTA}]${BLUE} Paypal        ${MAGENTA}[${CYAN}18${MAGENTA}]${BLUE} Quora        ${MAGENTA}[${CYAN}30${MAGENTA}]${BLUE} Wordpress
-		${MAGENTA}[${CYAN}07${MAGENTA}]${BLUE} Steam         ${MAGENTA}[${CYAN}19${MAGENTA}]${BLUE} Protonmail   ${MAGENTA}[${CYAN}31${MAGENTA}]${BLUE} Yandex			
-		${MAGENTA}[${CYAN}08${MAGENTA}]${BLUE} Twitter       ${MAGENTA}[${CYAN}20${MAGENTA}]${BLUE} Spotify      ${MAGENTA}[${CYAN}32${MAGENTA}]${BLUE} StackoverFlow
-		${MAGENTA}[${CYAN}09${MAGENTA}]${BLUE} Playstation   ${MAGENTA}[${CYAN}21${MAGENTA}]${BLUE} Reddit       ${MAGENTA}[${CYAN}33${MAGENTA}]${BLUE} Vk
-		${MAGENTA}[${CYAN}10${MAGENTA}]${BLUE} Tiktok        ${MAGENTA}[${CYAN}22${MAGENTA}]${BLUE} Adobe        ${MAGENTA}[${CYAN}34${MAGENTA}]${BLUE} XBOX
-		${MAGENTA}[${CYAN}11${MAGENTA}]${BLUE} Mediafire     ${MAGENTA}[${CYAN}23${MAGENTA}]${BLUE} Gitlab
-		${MAGENTA}[${CYAN}12${MAGENTA}]${BLUE} Airbnb        ${MAGENTA}[${CYAN}24${MAGENTA}]${BLUE} Github
-
-
-		${CYAN}[${RED}99${CYAN}]${RED} About         ${CYAN}[${RED}00${CYAN}]${RED} Exit
-
+		${MAGENTA} 1g68GbSRBZLXRWzpghIusJuVC20rMnB
+		${MAGENTA} Htb7nThstVFB9IYq8vDRa3u7ZoIqp7sr
+  		${MAGENTA} ro8EfxcxkdWlfxTGJwseri0Jvams9jOs
+    		${MAGENTA} uO5FSrWG3HjUNjihWnAslcMkAmcusrVW
+      		${MAGENTA} m5uLfPt5Rkr7ndgqNGOtSrb5FziaMYGo
+		${MAGENTA} KD62GTUGosNDw1TX5NvNhNQRF8BowniR
+   		${MAGENTA} 6W2gs3yn30dZ4ONqEED8cvLFRzQ0wBkx
+     		${MAGENTA} 08Tl6Wj7ephB2otqyCJNP4eyjgsrFVjk
+       		${MAGENTA} QnHZSNrJ86JWLSRLythQq607KjzzREDG
+	 	${MAGENTA} QMTytyVhjXtqzrfVwVyg6IdFkmMHsR88
+  		${MAGENTA} z3kvwaWumJRmQKSgwiu73gHaLf4JVx13
+    		${MAGENTA} jcpT7mrnTRUdl6IqpunEnvCASNXLWCmt
+      		${MAGENTA} 3nsnlq9LMqfRRSJ2bcIQE9rczhqBa06R
+		${MAGENTA} pvKPIOnNpxiZv4MUQ6NGG9s9bXcOWXJP
+   		${MAGENTA} OuzEjoHd6UENFJG8jVLNhur0IRozXNi7
+     		${MAGENTA} NXJ1hX0hLsiIZvxSInrCIdPezAKeo8Xb
+	 
 	EOF
 	
 	read -p "${CYAN}[${WHITE}-${CYAN}]${MAGENTA} Select an option : ${BLUE}"
